@@ -2,9 +2,9 @@ namespace MyApplication
 {
     public class Song
     {
-        public string Title { get; set; }
-        public string Artist { get; set; }
-        public string Genre { get; set; }
+        public required string Title { get; set; }
+        public required string Artist { get; set; }
+        public required string Genre { get; set; }
         public TimeSpan Time { get; set; }
     }
 
