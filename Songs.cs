@@ -33,7 +33,24 @@ namespace MyApplication
                 new Song { Title = "Stairway to Heaven", Artist = "Led Zeppelin", Genre = "Rock", Time = new TimeSpan(0, 8, 2) },
                 new Song { Title = "Bad Guy", Artist = "Billie Eilish", Genre = "Electropop", Time = new TimeSpan(0, 3, 14) },
                 new Song { Title = "Radioactive", Artist = "Imagine Dragons", Genre = "Alternative Rock", Time = new TimeSpan(0, 3, 6) },
-                new Song { Title = "Someone Like You", Artist = "Adele", Genre = "Pop", Time = new TimeSpan(0, 4, 45) }
+                new Song { Title = "Someone Like You", Artist = "Adele", Genre = "Pop", Time = new TimeSpan(0, 4, 45) },
+
+                new Song { Title = "Miss Possessive", Artist = "Tate McRae", Genre = "Pop", Time = new TimeSpan(0, 2, 36) },
+                new Song { Title = "2 Hands", Artist = "Tate McRae", Genre = "Pop", Time = new TimeSpan(0, 3, 2) },
+                new Song { Title = "Revolving Door", Artist = "Tate McRae", Genre = "Pop", Time = new TimeSpan(0, 3, 2) },
+                new Song { Title = "Bloodonmyhands", Artist = "Tate McRae feat. Flo Milli", Genre = "Pop/Rap", Time = new TimeSpan(0, 3, 2) },
+                new Song { Title = "Dear God", Artist = "Tate McRae", Genre = "Pop", Time = new TimeSpan(0, 3, 2) },
+                new Song { Title = "Purple Lace Bra", Artist = "Tate McRae", Genre = "Pop", Time = new TimeSpan(0, 3, 2) },
+                new Song { Title = "Sports Car", Artist = "Tate McRae", Genre = "Pop", Time = new TimeSpan(0, 3, 2) },
+                new Song { Title = "Signs", Artist = "Tate McRae", Genre = "Pop", Time = new TimeSpan(0, 3, 2) },
+                new Song { Title = "I Know Love", Artist = "Tate McRae feat. The Kid LAROI", Genre = "Pop", Time = new TimeSpan(0, 3, 2) },
+                new Song { Title = "Like I Do", Artist = "Tate McRae", Genre = "Pop", Time = new TimeSpan(0, 3, 2) },
+                new Song { Title = "It's OK I'm OK", Artist = "Tate McRae", Genre = "Pop", Time = new TimeSpan(0, 2, 36) },
+                new Song { Title = "No I'm Not In Love", Artist = "Tate McRae", Genre = "Pop", Time = new TimeSpan(0, 2, 50) },
+                new Song { Title = "Means I Care", Artist = "Tate McRae", Genre = "Pop", Time = new TimeSpan(0, 2, 55) },
+                new Song { Title = "Greenlight", Artist = "Tate McRae", Genre = "Pop", Time = new TimeSpan(0, 2, 45) },
+                new Song { Title = "Nostalgia", Artist = "Tate McRae", Genre = "Pop", Time = new TimeSpan(0, 3, 3) }
+
             };
         }
     }
