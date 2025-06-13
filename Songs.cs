@@ -12,8 +12,6 @@ namespace MyApplication
     {
         public static List<Song> AllSongs { get; } = new List<Song>
         {
-            List<Song> songs = new List<Song>
-            {
                 new Song { Title = "Bohemian Rhapsody", Artist = "Queen", Genre = "Rock", Time = new TimeSpan(0, 5, 55) },
                 new Song { Title = "Imagine", Artist = "John Lennon", Genre = "Pop", Time = new TimeSpan(0, 3, 3) },
                 new Song { Title = "Billie Jean", Artist = "Michael Jackson", Genre = "Pop", Time = new TimeSpan(0, 4, 54) },
